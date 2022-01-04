@@ -1,4 +1,11 @@
-.h1{
-    align-items: center;
-    color: rgb(59, 5, 19);
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/941/834/523/yeezus-kanye-west-wallpaper-preview.jpg");
+    text-align: center;
+    padding-top: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(243, 231, 217);
+    font-size: larger;
+    
+    
 }
